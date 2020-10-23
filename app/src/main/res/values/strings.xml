@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scrollviewamarillo</string>
+    <string name="encabezado_del_articulo">Encabezado del articulo</string>
+    <string name="subt_tulo_del_art_culo">Subtítulo del artículo</string>
+    <string name="texto_del_articulo">
+      \n\n\n web: https://ayto-sesena.org/  <br/>  telefono: +34 666555444 <br/> correo: aytosesena@gmail.com <br/> Esta tierra, por su proximidad a una zona de regadío, está presente desde tempranos tiempos, en el quehacer histórico de la provincia de <b>Toledo</b>.<br/><br/><br/>En el siglo XII, Alfonso VIII da al obispo Alderico, de la catedral de Sigüenza, una heredad cerca del Jarama y del Tajo, que después cambia el rey con el obispo por un molino en Berlanga. El mismo soberano hizo concesiones sobre las salinas de Las Espartinas. Fue villa del señorío del infante don Felipe, comprendido en el estado de Chinchón. La villa se repuebla a mediados del siglo XV, durante el reinado de Juan II, que para mantenerla hace merced a sus vecinos de la mitad del término de Las Espartinas; donación que luego confirma su sucesor Enrique IV.
+
+<b>La batalla de Seseña</b> se desarrolló aquí durante la Guerra Civil Española en 1936, una confrontación que duró meses y que dejó la mayoría de edificaciones parcial o completamente destruidas por lo que se decidió construir Seseña Nuevo (a 4 kilómetros de Seseña).
+
+El día 13 de mayo de 2016 se desata en la localidad el incendio del mayor vertedero de neumáticos de Europa, declarado ilegal ya en 2003, produciendo una columna de humo visible desde la ciudad de Madrid. Las consecuencias del mismo (contaminantes, pérdidas económicas, enfermedades derivadas...) están aún por determinar, pero el incendio ya se califica como una de las mayores catástrofes medioambientales en el país desde el hundimiento del Prestige en la costa gallega</string>
+</resources>
